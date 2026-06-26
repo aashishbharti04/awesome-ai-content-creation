@@ -31,6 +31,7 @@
 | Tool | What it's great for | Link |
 |---|---|---|
 | **ChatGPT** | All-round writing, ideation, coding | [openai.com/chatgpt](https://openai.com/chatgpt) |
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 | **Claude** | Long-form writing, nuanced reasoning | [claude.ai](https://claude.ai) |
 | **Gemini** | Research + Google ecosystem | [gemini.google.com](https://gemini.google.com) |
 | **Perplexity** | AI search with cited sources | [perplexity.ai](https://www.perplexity.ai) |
