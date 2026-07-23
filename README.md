@@ -64,6 +64,7 @@
 | **Suno** | Full songs from a text prompt | [suno.com](https://suno.com) |
 | **Udio** | High-quality AI music | [udio.com](https://www.udio.com) |
 | **Murf** | Studio-grade narration | [murf.ai](https://murf.ai) |
+| **CharaVox** | Character voices & voice cloning | [charavox.com](https://charavox.com) |
 
 ## ✂️ Editing & Repurposing
 | Tool | What it's great for | Link |
