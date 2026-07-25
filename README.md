@@ -72,6 +72,7 @@
 | **CapCut** | Fast social-video editing | [capcut.com](https://www.capcut.com) |
 | **Opus Clip** | Turn long videos into shorts | [opus.pro](https://www.opus.pro) |
 | **Canva** | Design + AI Magic Studio | [canva.com](https://www.canva.com) |
+| **Video Upscaler** | Improve video resolution for content reuse | [videoupscaler.video](https://videoupscaler.video) |
 
 ## ⚡ Productivity & Decks
 | Tool | What it's great for | Link |
