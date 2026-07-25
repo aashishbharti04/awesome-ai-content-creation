@@ -68,6 +68,7 @@
 ## ✂️ Editing & Repurposing
 | Tool | What it's great for | Link |
 |---|---|---|
+| **Blur Background** | Quick background blur for visual content | [blurbackground.vip](https://blurbackground.vip) |
 | **Descript** | Edit video by editing text | [descript.com](https://www.descript.com) |
 | **CapCut** | Fast social-video editing | [capcut.com](https://www.capcut.com) |
 | **Opus Clip** | Turn long videos into shorts | [opus.pro](https://www.opus.pro) |
