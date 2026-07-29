@@ -36,6 +36,7 @@
 | **Perplexity** | AI search with cited sources | [perplexity.ai](https://www.perplexity.ai) |
 | **Jasper** | Marketing & brand copy at scale | [jasper.ai](https://www.jasper.ai) |
 | **Copy.ai** | Quick ad/social copy | [copy.ai](https://www.copy.ai) |
+| **WizGenerator Story Generator** | Custom stories by genre, tone, characters & plot | [wizgenerator.com](https://wizgenerator.com/tools/story-generator/) |
 
 ## 🎨 Image Generation
 | Tool | What it's great for | Link |
