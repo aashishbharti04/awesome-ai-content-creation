@@ -47,6 +47,7 @@
 | **Adobe Firefly** | Commercially-safe generation | [firefly.adobe.com](https://firefly.adobe.com) |
 | **Ideogram** | Great at text inside images | [ideogram.ai](https://ideogram.ai) |
 | **Seedream AI Studio** | Multi-model (Seedream 5.0/4.5/4.0), #1 AI Image Arena, 10 ref images, Kling 2.1 video | [seedream4.video](https://seedream4.video/) |
+| **AIImageChanger.app** | Prompt-based edits to backgrounds, objects, clothing, colors, text & styles in uploaded photos | [aiimagechanger.app](https://aiimagechanger.app/) |
 
 ## 🎬 Video Generation
 | Tool | What it's great for | Link |
