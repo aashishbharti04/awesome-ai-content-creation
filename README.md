@@ -72,6 +72,7 @@
 | **CapCut** | Fast social-video editing | [capcut.com](https://www.capcut.com) |
 | **Opus Clip** | Turn long videos into shorts | [opus.pro](https://www.opus.pro) |
 | **Canva** | Design + AI Magic Studio | [canva.com](https://www.canva.com) |
+| **OrkasVideoStudio** | Agent-driven local video planning, composition, and editing | [github.com/Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) |
 
 ## ⚡ Productivity & Decks
 | Tool | What it's great for | Link |
