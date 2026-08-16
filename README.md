@@ -52,6 +52,7 @@
 | Tool | What it's great for | Link |
 |---|---|---|
 | **Runway** | Text-to-video, AI editing | [runwayml.com](https://runwayml.com) |
+| **videos.social** | Editable faceless video from blogs, PDFs, prompts | [videos.social](https://videos.social/?utm_source=awesome-ai-content-creation&utm_medium=directory&utm_campaign=listing-wave-d) |
 | **Pika** | Stylized short AI video | [pika.art](https://pika.art) |
 | **Luma Dream Machine** | Realistic motion clips | [lumalabs.ai](https://lumalabs.ai) |
 | **Synthesia** | AI avatar / spokesperson videos | [synthesia.io](https://www.synthesia.io) |
