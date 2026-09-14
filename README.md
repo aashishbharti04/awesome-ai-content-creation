@@ -78,6 +78,7 @@
 |---|---|---|
 | **Notion AI** | Notes, docs, summaries | [notion.so](https://www.notion.so) |
 | **Gamma** | AI-generated slide decks | [gamma.app](https://gamma.app) |
+| **Orkas** | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. Coordinates document, slide, and media work. | [orkas.ai](https://orkas.ai/?source=gh_aashish) |
 
 ---
 
