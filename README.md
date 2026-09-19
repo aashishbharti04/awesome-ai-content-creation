@@ -72,6 +72,7 @@
 | **CapCut** | Fast social-video editing | [capcut.com](https://www.capcut.com) |
 | **Opus Clip** | Turn long videos into shorts | [opus.pro](https://www.opus.pro) |
 | **Canva** | Design + AI Magic Studio | [canva.com](https://www.canva.com) |
+| **shortshort** | Long talks into vertical shorts with captions | [shortshort.io](https://www.shortshort.io) |
 
 ## ⚡ Productivity & Decks
 | Tool | What it's great for | Link |
