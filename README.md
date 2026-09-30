@@ -70,6 +70,7 @@
 |---|---|---|
 | **Descript** | Edit video by editing text | [descript.com](https://www.descript.com) |
 | **CapCut** | Fast social-video editing | [capcut.com](https://www.capcut.com) |
+| **ReelWorkshop** | Browser compilation maker (import/arrange/trim/preview; vertical 9:16 H.264; edit free; export Starter) | [reelworkshop.com](https://reelworkshop.com) |
 | **Opus Clip** | Turn long videos into shorts | [opus.pro](https://www.opus.pro) |
 | **Canva** | Design + AI Magic Studio | [canva.com](https://www.canva.com) |
 
