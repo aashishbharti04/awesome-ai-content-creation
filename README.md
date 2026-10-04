@@ -36,6 +36,7 @@
 | **Perplexity** | AI search with cited sources | [perplexity.ai](https://www.perplexity.ai) |
 | **Jasper** | Marketing & brand copy at scale | [jasper.ai](https://www.jasper.ai) |
 | **Copy.ai** | Quick ad/social copy | [copy.ai](https://www.copy.ai) |
+| **AI eBook Pro** | Full eBooks with chapters, cover and PDF/EPUB/DOCX from one idea | [aiebookpro.com](https://aiebookpro.com) |
 
 ## 🎨 Image Generation
 | Tool | What it's great for | Link |
