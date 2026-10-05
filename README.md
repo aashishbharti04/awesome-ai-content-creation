@@ -64,6 +64,7 @@
 | **Suno** | Full songs from a text prompt | [suno.com](https://suno.com) |
 | **Udio** | High-quality AI music | [udio.com](https://www.udio.com) |
 | **Murf** | Studio-grade narration | [murf.ai](https://murf.ai) |
+| [AI Group Call](https://aigroupcall.app) | Practice pitches and interviews against a panel of AI voices that push back live, then share the transcript. | https://aigroupcall.app |
 
 ## ✂️ Editing & Repurposing
 | Tool | What it's great for | Link |
