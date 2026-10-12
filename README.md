@@ -69,6 +69,7 @@
 | Tool | What it's great for | Link |
 |---|---|---|
 | **Descript** | Edit video by editing text | [descript.com](https://www.descript.com) |
+| **QuietTake Noise Remover** | Browser-local RNNoise speech denoising, playback comparison and WAV export; free, no account or audio upload; ≤50MB and ≤5min. | [noiseremover.site](https://noiseremover.site/) |
 | **CapCut** | Fast social-video editing | [capcut.com](https://www.capcut.com) |
 | **Opus Clip** | Turn long videos into shorts | [opus.pro](https://www.opus.pro) |
 | **Canva** | Design + AI Magic Studio | [canva.com](https://www.canva.com) |
