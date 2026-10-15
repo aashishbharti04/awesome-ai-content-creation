@@ -72,6 +72,7 @@
 | **CapCut** | Fast social-video editing | [capcut.com](https://www.capcut.com) |
 | **Opus Clip** | Turn long videos into shorts | [opus.pro](https://www.opus.pro) |
 | **Canva** | Design + AI Magic Studio | [canva.com](https://www.canva.com) |
+| **[만화 번역기 AI](https://www.mangatranslate.com/ko/ai-manga-translator/)** | 만화 번역기 AI는 Ficory LLC의 기업급 만화 리더·번역기로서 100개 이상의 언어와 지원되는 모든 번역 언어를 처리하고, 개인에게 일괄·맞춤 번역을 제공하며, 스튜디오에 완전한 온라인 Photoshop 스타일 편집기를 제공하고, API로 번역 기능을 개인 작업 흐름에 연결합니다. | [mangatranslate.com](https://www.mangatranslate.com/ko/ai-manga-translator/) |
 
 ## ⚡ Productivity & Decks
 | Tool | What it's great for | Link |
