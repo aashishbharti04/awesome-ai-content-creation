@@ -56,6 +56,7 @@
 | **Luma Dream Machine** | Realistic motion clips | [lumalabs.ai](https://lumalabs.ai) |
 | **Synthesia** | AI avatar / spokesperson videos | [synthesia.io](https://www.synthesia.io) |
 | **HeyGen** | Talking-avatar & video translation | [heygen.com](https://www.heygen.com) |
+| **Wedding AI** | AI wedding invitation videos from templates and photos | [weddingai.studio](https://weddingai.studio) |
 
 ## 🔊 Voice & Music
 | Tool | What it's great for | Link |
