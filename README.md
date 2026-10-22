@@ -36,6 +36,7 @@
 | **Perplexity** | AI search with cited sources | [perplexity.ai](https://www.perplexity.ai) |
 | **Jasper** | Marketing & brand copy at scale | [jasper.ai](https://www.jasper.ai) |
 | **Copy.ai** | Quick ad/social copy | [copy.ai](https://www.copy.ai) |
+| **Auferet** | Solo text adventures and tabletop RPGs run by an AI game master | [auferet.com](https://auferet.com) |
 
 ## 🎨 Image Generation
 | Tool | What it's great for | Link |
