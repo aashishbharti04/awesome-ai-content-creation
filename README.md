@@ -49,6 +49,7 @@
 | **Seedream AI Studio** | Multi-model (Seedream 5.0/4.5/4.0), #1 AI Image Arena, 10 ref images, Kling 2.1 video | [seedream4.video](https://seedream4.video/) |
 
 ## 🎬 Video Generation
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 | Tool | What it's great for | Link |
 |---|---|---|
 | **Runway** | Text-to-video, AI editing | [runwayml.com](https://runwayml.com) |
