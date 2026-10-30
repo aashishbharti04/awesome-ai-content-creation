@@ -72,6 +72,7 @@
 | **CapCut** | Fast social-video editing | [capcut.com](https://www.capcut.com) |
 | **Opus Clip** | Turn long videos into shorts | [opus.pro](https://www.opus.pro) |
 | **Canva** | Design + AI Magic Studio | [canva.com](https://www.canva.com) |
+| **Karaoke Captions** | On-device word-by-word video captions and subtitle editing | [karaokecaptions.com](https://karaokecaptions.com/) |
 
 ## ⚡ Productivity & Decks
 | Tool | What it's great for | Link |
