@@ -52,6 +52,7 @@
 | Tool | What it's great for | Link |
 |---|---|---|
 | **Runway** | Text-to-video, AI editing | [runwayml.com](https://runwayml.com) |
+| **Cyanvid** | AI video generator from text or images; credit quotes before generate | [cyanvid.com](https://cyanvid.com/?utm_source=aashishbharti04-awesome-ai-content-creation&utm_medium=directory&utm_campaign=backlinks) |
 | **Pika** | Stylized short AI video | [pika.art](https://pika.art) |
 | **Luma Dream Machine** | Realistic motion clips | [lumalabs.ai](https://lumalabs.ai) |
 | **Synthesia** | AI avatar / spokesperson videos | [synthesia.io](https://www.synthesia.io) |
@@ -70,6 +71,7 @@
 |---|---|---|
 | **Descript** | Edit video by editing text | [descript.com](https://www.descript.com) |
 | **CapCut** | Fast social-video editing | [capcut.com](https://www.capcut.com) |
+| **Barz Studio** | Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM | [barzvideo.com](https://barzvideo.com/?utm_source=aashishbharti04-awesome-ai-content-creation&utm_medium=directory&utm_campaign=backlinks) |
 | **Opus Clip** | Turn long videos into shorts | [opus.pro](https://www.opus.pro) |
 | **Canva** | Design + AI Magic Studio | [canva.com](https://www.canva.com) |
 
