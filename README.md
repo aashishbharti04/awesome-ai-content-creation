@@ -56,6 +56,7 @@
 | **Luma Dream Machine** | Realistic motion clips | [lumalabs.ai](https://lumalabs.ai) |
 | **Synthesia** | AI avatar / spokesperson videos | [synthesia.io](https://www.synthesia.io) |
 | **HeyGen** | Talking-avatar & video translation | [heygen.com](https://www.heygen.com) |
+| **Imagera** | Many text/image-to-video models plus lip-sync and voice in one studio (paid) | [imagera.ai](https://imagera.ai) |
 
 ## 🔊 Voice & Music
 | Tool | What it's great for | Link |
