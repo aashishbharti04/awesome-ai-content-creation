@@ -72,6 +72,7 @@
 | **CapCut** | Fast social-video editing | [capcut.com](https://www.capcut.com) |
 | **Opus Clip** | Turn long videos into shorts | [opus.pro](https://www.opus.pro) |
 | **Canva** | Design + AI Magic Studio | [canva.com](https://www.canva.com) |
+| **Valmera** | Edit uploaded footage by describing cuts, captions and revisions in chat | [valmera.io](https://valmera.io/) |
 
 ## ⚡ Productivity & Decks
 | Tool | What it's great for | Link |
